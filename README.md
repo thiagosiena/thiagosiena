@@ -30,4 +30,4 @@ h3 align="left">Languages and Tools:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagosiena&show_icons=true&theme=dark&title_color=ffffff&text_color=00ff1e&bg_color=0d1117&hide_border=true&locale=en" alt="thiagosiena" /></p>
 
-![snake gif](https://github.com/thiagosiena/thiagosiena/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
