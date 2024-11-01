@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/thiagosiena/thiagosiena/assets/114188947/4cb0286a-2dd1-48e4-a04e-fd7b8b56d383)
 <h1 align="center">Hi, I'm Thiago</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagosiena&label=Profile%20views&color=00ff1e&style=plastic" alt="thiagosiena" /> </p>
