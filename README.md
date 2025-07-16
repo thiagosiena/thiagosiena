@@ -10,11 +10,11 @@
 
 
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Google Ads, Google Ad Manager, PHP, Wordpress, TypeScript**
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **I play guitar about 9 years :D**
+- ⚡ Fun fact **I play guitar about 11 years :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
