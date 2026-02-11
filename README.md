@@ -36,17 +36,15 @@
 
 ---
 
-### 📊 Stats & Activity
+<h3 align="center">Status & Activity </h3>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagosiena&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiagosiena&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=thiagosiena&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
-### 🐍 Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/thiagosiena/thiagosiena/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
@@ -55,3 +53,4 @@
 <a href="https://twitter.com/Zox______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tzhzw" height="30" width="40" /></a>
 <a href="https://instagram.com/eh_o_thigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eh_o_thigas" height="30" width="40" /></a>
 </p>
+
